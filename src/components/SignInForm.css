@@ -1,7 +1,0 @@
-.Sign-in{
-    display: grid;
-    grid-template-rows: 33% 33% 33%;
-}
-.Sign-in-input{
-    grid-row-start: 2;
-}
